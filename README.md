@@ -70,5 +70,6 @@ Install Jest
 ```sh
 npm install -g webpack
 npm install
+npm install react-icons
 ```
 
